@@ -1,7 +1,6 @@
 # Portafolio v1
 
 > Hello I'm Adnan Varela, in this project I am building my first portafolio that will be use to 
-
 > showcast all my future projects as a Full stack developer. 
 
 <!-- > Live demo [_here_](https://www.example.com).  -->
