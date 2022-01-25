@@ -23,12 +23,12 @@ My first Portafolio project is going to be enable different technologies like HT
 
 ## Wireframes
 
-- [Mobile](/wireframe_mobile.jpg), Minimalist look, hamburger menu on the topleft corner, all in one column. 
-- [Desktop](wireframe_desktop.jpg) Hamburger menu transitions to an inline flex menu, information is display in two equal columns. 
+- [Mobile](/mobile.jpg), Minimalist look, hamburger menu on the topleft corner, all in one column. 
+- [Desktop](/desktop.jpg) Hamburger menu transitions to an inline flex menu, information is display in two equal columns. 
 
 ## Time/Priority Matrix 
 
-[Link](matrixtime.jpg)
+[Link](/matrix.jpg)
 
 -Layering divs and wireframe
 -Navigation bar menu
