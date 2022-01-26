@@ -56,7 +56,7 @@ I added some extra features for the PostMVP if I have the time.
 
 #### PostMVP 
 
-I would like to implement my own logo to start my brand recognition and awareness and also some stylish social media icons and links.
+I would like to implement my own logo to start my brand recognition and awareness, also some stylish social media icons and links.
 
 - Making own logo 
 - Social media styled icons and links
