@@ -73,8 +73,6 @@ This is how i broke down in small steps my project. I added a little bit more ti
 | Nav bar | H | 1.5hr | .5hr |  
 | Hamburger menu reactive | H | 2hr|  hr | 
 | Main content layout| M | 1hr | 1.5hr|
-| Working with API | H | 4hrs|  hr | 
-| Form | H | 2hr | hr |
 | Responsive | H | 2hr | hr |
 | Animation | H | 3hr | hr | hr |
 | Total | H | 21.5hrs| hrs |
@@ -83,6 +81,8 @@ This is how i broke down in small steps my project. I added a little bit more ti
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 | Project Hover | L | 2hr | -hr |
+| Working with API | H | 4hrs|  hr | 
+| Form | H | 2hr | hr |
 | Own logo | L | 2hr | hr |
 | Social media icon and links | M | 4hr | hr |
 | Bootstrap | H | 4hr | hr |
