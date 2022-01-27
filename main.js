@@ -15,3 +15,4 @@ $(".lefticons").css({"background-color": "black",
                           x.className = "topnav";
                         }
                       }
+$('topnav')
