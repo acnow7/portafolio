@@ -203,4 +203,20 @@ a{
     #myTopnav {
         flex-flow: row;
     }
+    
   }
+
+  @media(max-width:900px){
+    .grd1{
+        font-size: 1.3rem;
+    }
+    .grd1{
+        padding:0;
+        
+    }
+    .grd2{
+        padding: 0;
+        padding-left: 1.5rem;
+        padding-top: 2rem;
+    }
+}
